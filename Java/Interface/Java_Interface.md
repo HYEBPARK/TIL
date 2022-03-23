@@ -1,4 +1,4 @@
-[인터페이스 이야기](https://velog.io/@hye_b/TIL-Interface)
+[인터페이스 이야기 03/23](https://velog.io/@hye_b/TIL-Interface)
 
 # Interface 이야기
 
